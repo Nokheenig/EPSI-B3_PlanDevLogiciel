@@ -1,5 +1,22 @@
 Méthodes de développement
-Plan de développement logiciel
+Plan de développement logiciel:
+
+# 1 Introduction
+## 1.1 Objet
+## 1.2 Terminologie et sigles utilisés
+## 1.3 Documents de référence
+# 2 Organisation du projet
+# 3 Méthode de développement et calendrier directeur
+# 4 Plans d'itérations (ou d'étapes)
+## 4.x Plan pour l'itération (ou l'étape) x
+### 4.x.1 Taches et calendrier
+### 4.x.2 Contenu des taches
+### 4.x.3 Produits réalisés
+# 5 Maîtrise des risques
+# 6 Méthodes, techniques et outils
+# 7 Infrastructures et moyens
+
+
 # Sommaire
 1 - OBJET DU GUIDE ................................................................................................. 2
 2 - OBJECTIF DU PDL ............................................................................................... 2
@@ -15,11 +32,6 @@ Plan de développement logiciel
 6 - PRÉSENTATION DU CONTENU DES TACHES............................................................. 7
 7 - EXEMPLE DE PDL ................................................................................................. 9
 
-
-
-# 1 - OBJET DU GUIDE
-Ce guide est destiné à aider dans la rédaction d'un plan de développement logiciel (PDL). Il est
-illustré par un plan rédigé en partie.
 
 # 2 - OBJECTIF DU PDL
 Le plan de développement est rédigé au tout début du développement du logiciel pour planifier les
